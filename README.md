@@ -1,6 +1,8 @@
 Epoclive
 ========
 
+[![Join the chat at https://gitter.im/minetics/epoclive](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/minetics/epoclive?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Stream data from Epoc headset and perform BCI analysis.
 
 To use Epoclive
